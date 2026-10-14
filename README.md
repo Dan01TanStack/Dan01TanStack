@@ -100,25 +100,6 @@ developer.ship(); // ✓ deployed to production
 
 </div>
 
-<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
-
-## <img src="https://img.shields.io/badge/$-top_--stats-c6f135?style=flat-square&labelColor=0d1117" height="26"/>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dan01TanStack&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c6f135&icon_color=c6f135&text_color=c9d1d9&ring_color=c6f135"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Dan01TanStack&hide_border=true&background=0d1117&ring=c6f135&fire=c6f135&currStreakLabel=c6f135&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dan01TanStack&bg_color=0d1117&color=c9d1d9&line=c6f135&point=ffffff&area=true&area_color=c6f135&hide_border=true&custom_title=commit%20activity%20%E2%86%92%20production"/>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dan01TanStack/Dan01TanStack/output/snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Dan01TanStack/Dan01TanStack/output/snake.svg"/>
-</picture>
-
-</div>
 
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 
